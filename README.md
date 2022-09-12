@@ -1,4 +1,4 @@
-# Atome paylater react native SDK Demo
+# Atome paylater react native SDK
 ## Installation
 
 ```sh
